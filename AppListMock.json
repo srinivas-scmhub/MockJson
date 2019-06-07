@@ -1,0 +1,15 @@
+{
+"ApplicationList" :[
+    {
+        "name": {
+            "first": "SomeOne",
+            "last": "lastName"
+        },
+        "appStatus": "Pending PA",
+        "appID": "JAPA-1000000100",
+        "applicantName": "test name",
+        "bcaNumber": "12376213",
+        "email": "test@tesing.com"
+    }
+    ]
+    }
